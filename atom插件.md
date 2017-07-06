@@ -17,6 +17,7 @@
 + jshint JS 的语法检查插件
 + linter-php php 语法检查插件
 + linter-write-good 英语语法检查插件
++ atom-beautify 代码美化工具，相信我一定会用上的 快捷键 ctrl+alt+b
 
 ## 前端必备
 + emmet 写 HTML CSS 还在慢慢打字，来试试这个
