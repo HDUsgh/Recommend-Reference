@@ -10,13 +10,13 @@
 ## markdown
 + mardown-preview-plus markdown的预览插件
 + markdown-scroll-sync markdown 的同步滚动插件
-+ markdown-pdf markdown 转化 PDF 插件
++ markdown-pdf markdown md 转化 PDF 插件
 
 ## 语法检查
-+ linter
++ linter 基础检查插件
 + jshint JS 的语法检查插件
 + linter-php php 语法检查插件
-+ linter-write-good 英语语法检查插件
++ linter-write-good 英语单词检查插件
 + atom-beautify 代码美化工具，相信我一定会用上的 快捷键 ctrl+alt+b
 
 ## 前端必备
@@ -30,4 +30,4 @@
 
 ## 小玩意
 + atom-clock 时钟显示
-+ atom-webbrowser 有了这个这也不用切换浏览器百度了，来在atom里看哔哩哔哩
++ atom-webbrowser 有了这个这也不用切换浏览器百度了，来，在atom里看哔哩哔哩
