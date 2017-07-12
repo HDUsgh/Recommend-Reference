@@ -35,3 +35,13 @@
         + atom-webbrowser 有了这个这也不用切换浏览器百度了
         + pane-browser 做到了在 Atom 看哔哩哔哩 （m.bilibili.com)
         + atom-browser
++ file-icons 侧栏图标插件，图标还是挺好看的
+
+# 主题和语法高亮推荐
++ seti-ui & seti-syntax
++ Tia-ui 可以很方便地配置背景的主题
++ loved-syntax 粉（lian）红（ai）的为主的语法高亮
++ dash-ui
++ pure-syntax
++ pristime-ui
++ apex-ui & apex-syntax
