@@ -30,4 +30,8 @@
 
 ## 小玩意
 + atom-clock 时钟显示
-+ atom-webbrowser 有了这个这也不用切换浏览器百度了，来，在atom里看哔哩哔哩
+    + ### 浏览器
+        + web-view 貌似挺不错的浏览器插件 **首推**，来，在atom里看哔哩哔哩
+        + atom-webbrowser 有了这个这也不用切换浏览器百度了
+        + pane-browser 做到了在 Atom 看哔哩哔哩 （m.bilibili.com)
+        + atom-browser
